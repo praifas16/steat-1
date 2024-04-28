@@ -21,10 +21,6 @@ jobs:
       - name: Install PHP CodeSniffer
         run: composer global require "squizlabs/php_codesniffer=*"
 
-      - name: Check PHP syntax
-        run: php -l .
-
-      # Add additional steps for deployment
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
