@@ -229,7 +229,7 @@
         </section>
     </div>
 
-    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ภาพยนตร์แนะนำ</h2>
+    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ภาพยนตร์แนะ</h2>
     <div class="container">
         <section class="movie-container">
         <?php
